@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat
+        android:key="pref_audio_only"
+        android:title="@string/action_audio_only"
+        android:summary="Play audio without video by default" />
+    <SwitchPreferenceCompat
+        android:key="pref_background_playback"
+        android:title="Background playback"
+        android:summary="Keep playback running in the background" />
+</PreferenceScreen>
+
