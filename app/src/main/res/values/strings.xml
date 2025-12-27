@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Local Video Audio Player</string>
+    <string name="permission_rationale">We need access to your videos to build the local library.</string>
+    <string name="action_pip">Picture in Picture</string>
+    <string name="action_audio_only">Audio Only</string>
+    <string name="action_convert_mp3">Convert to MP3</string>
+    <string name="action_download">Download</string>
+    <string name="title_folders">Folders</string>
+    <string name="title_videos">Videos</string>
+    <string name="title_audio_library">Audio Library</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_settings">Settings</string>
+</resources>
+
